@@ -1,6 +1,6 @@
 /**
  * (c) 2015, Anders Goettsche
- *
+ * https://tutorialike.com
  * https://github.com/geonome/simplify2-js
  */
 (function (name, definition) {
